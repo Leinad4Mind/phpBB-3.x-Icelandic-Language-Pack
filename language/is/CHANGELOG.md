@@ -42,3 +42,4 @@
 - Completed the manual Icelandic translation of `cli.php`.
 - Completed the manual Icelandic translation of `help/bbcode.php`.
 - Completed the manual Icelandic translation of `help/faq.php`.
+- Completed the manual Icelandic translation of `mcp.php`.
