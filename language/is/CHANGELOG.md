@@ -25,3 +25,4 @@
 - Completed the manual Icelandic translation of `captcha_recaptcha.php`.
 - Completed the manual Icelandic translation of `search.php`.
 - Completed the manual Icelandic translation of `acp/attachments.php`.
+- Completed the manual Icelandic translation of `acp/posting.php`.
