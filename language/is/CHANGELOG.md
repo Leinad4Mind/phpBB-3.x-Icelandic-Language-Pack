@@ -14,3 +14,4 @@
 - Completed the manual Icelandic translation of `captcha_qa.php`.
 - Completed the manual Icelandic translation of `acp/bots.php`.
 - Completed the manual Icelandic translation of `acp/database.php`.
+- Completed the manual Icelandic translation of `acp/email.php`.

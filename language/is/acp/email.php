@@ -38,31 +38,31 @@ if (empty($lang) || !is_array($lang))
 
 // Email settings
 $lang = array_merge($lang, array(
-	'ACP_MASS_EMAIL_EXPLAIN'		=> 'Here you can email a message to either all of your users or all users of a specific group <strong>having the option to receive mass emails enabled</strong>. To achieve this an email will be sent out to the administrative email address supplied, with a blind carbon copy sent to all recipients. The default setting is to only include 20 recipients in such an email, for more recipients more emails will be sent. If you are emailing a large group of people please be patient after submitting and do not stop the page halfway through. It is normal for a mass emailing to take a long time, you will be notified when the script has completed.',
-	'ALL_USERS'						=> 'All users',
+	'ACP_MASS_EMAIL_EXPLAIN'		=> 'Hér geturðu sent tölvupóst annaðhvort til allra notenda eða allra notenda í tilteknum hópi <strong>sem hafa virkjað móttöku fjöldapósts</strong>. Tölvupóstur er sendur á uppgefið netfang stjórnanda og allir viðtakendur fá blindafrit. Sjálfgefið eru aðeins 20 viðtakendur í hverjum tölvupósti; ef viðtakendur eru fleiri verða fleiri tölvupóstar sendir. Ef þú sendir stórum hópi skaltu sýna þolinmæði eftir innsendingu og ekki stöðva síðuna meðan vinnsla stendur yfir. Eðlilegt er að sending fjöldapósts taki langan tíma og þú færð tilkynningu þegar skriftan hefur lokið vinnslu.',
+	'ALL_USERS'						=> 'Allir notendur',
 
-	'COMPOSE'				=> 'Compose',
+	'COMPOSE'				=> 'Semja',
 
-	'EMAIL_SEND_ERROR'		=> 'There were one or more errors while sending the email. Please check the %sError log%s for detailed error messages.',
-	'EMAIL_SENT'			=> 'This message has been sent.',
-	'EMAIL_SENT_QUEUE'		=> 'This message has been queued for sending.',
+	'EMAIL_SEND_ERROR'		=> 'Ein eða fleiri villur komu upp við sendingu tölvupóstsins. Skoðaðu %svilluskrána%s fyrir nánari villuboð.',
+	'EMAIL_SENT'			=> 'Skilaboðin hafa verið send.',
+	'EMAIL_SENT_QUEUE'		=> 'Skilaboðin hafa verið sett í sendiröð.',
 
-	'LOG_SESSION'			=> 'Log mail session to critical log',
+	'LOG_SESSION'			=> 'Skrá póstlotu í mikilvægu atvikaskrána',
 
-	'SEND_IMMEDIATELY'		=> 'Send immediately',
-	'SEND_TO_GROUP'			=> 'Send to group',
-	'SEND_TO_USERS'			=> 'Send to users',
-	'SEND_TO_USERS_EXPLAIN'	=> 'Entering names here will override any group selected above. Enter each username on a new line.',
+	'SEND_IMMEDIATELY'		=> 'Senda strax',
+	'SEND_TO_GROUP'			=> 'Senda til hóps',
+	'SEND_TO_USERS'			=> 'Senda til notenda',
+	'SEND_TO_USERS_EXPLAIN'	=> 'Notendanöfn sem eru slegin inn hér hnekkja hópvali hér fyrir ofan. Sláðu hvert notandanafn inn í nýja línu.',
 
-	'MAIL_BANNED'			=> 'Mail banned users',
-	'MAIL_BANNED_EXPLAIN'	=> 'When sending a mass email to a group you can select here whether banned users will also receive the email.',
-	'MAIL_HIGH_PRIORITY'	=> 'High',
-	'MAIL_LOW_PRIORITY'		=> 'Low',
-	'MAIL_NORMAL_PRIORITY'	=> 'Normal',
-	'MAIL_PRIORITY'			=> 'Mail priority',
-	'MASS_MESSAGE'			=> 'Your message',
-	'MASS_MESSAGE_EXPLAIN'	=> 'Please note that you may enter only plain text. All markup will be removed before sending.',
+	'MAIL_BANNED'			=> 'Senda bönnuðum notendum póst',
+	'MAIL_BANNED_EXPLAIN'	=> 'Þegar fjöldapóstur er sendur til hóps geturðu valið hér hvort bannaðir notendur fái einnig tölvupóstinn.',
+	'MAIL_HIGH_PRIORITY'	=> 'Hár',
+	'MAIL_LOW_PRIORITY'		=> 'Lágur',
+	'MAIL_NORMAL_PRIORITY'	=> 'Venjulegur',
+	'MAIL_PRIORITY'			=> 'Forgangur pósts',
+	'MASS_MESSAGE'			=> 'Skilaboðin þín',
+	'MASS_MESSAGE_EXPLAIN'	=> 'Athugaðu að aðeins má slá inn ómótaðan texta. Öll sniðmerking verður fjarlægð fyrir sendingu.',
 
-	'NO_EMAIL_MESSAGE'		=> 'You must enter a message.',
-	'NO_EMAIL_SUBJECT'		=> 'You must specify a subject for your message.',
+	'NO_EMAIL_MESSAGE'		=> 'Þú verður að slá inn skilaboð.',
+	'NO_EMAIL_SUBJECT'		=> 'Þú verður að tilgreina efni skilaboðanna.',
 ));
