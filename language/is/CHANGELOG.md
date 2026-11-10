@@ -15,3 +15,4 @@
 - Completed the manual Icelandic translation of `acp/bots.php`.
 - Completed the manual Icelandic translation of `acp/database.php`.
 - Completed the manual Icelandic translation of `acp/email.php`.
+- Completed the manual Icelandic translation of `acp/language.php`.
