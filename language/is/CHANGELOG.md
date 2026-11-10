@@ -36,3 +36,4 @@
 - Completed the manual Icelandic translation of `acp/search.php`.
 - Completed the manual Icelandic translation of `posting.php`.
 - Completed the manual Icelandic translation of `acp/permissions_phpbb.php`.
+- Completed the manual Icelandic translation of `acp/permissions.php`.
