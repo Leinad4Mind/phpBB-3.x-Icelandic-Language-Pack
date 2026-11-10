@@ -38,10 +38,10 @@ English sources. Counts below are untranslated top-level language entries.
 | `plupload.php` | 0 |
 | `posting.php` | 0 |
 | `search.php` | 0 |
-| `ucp.php` | 150 |
+| `ucp.php` | 0 |
 | `viewforum.php` | 0 |
 | `viewtopic.php` | 0 |
-| **Total** | **791** |
+| **Total** | **641** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,

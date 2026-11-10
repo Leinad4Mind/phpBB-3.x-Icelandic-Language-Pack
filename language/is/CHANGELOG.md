@@ -38,3 +38,4 @@
 - Completed the manual Icelandic translation of `acp/permissions_phpbb.php`.
 - Completed the manual Icelandic translation of `acp/permissions.php`.
 - Completed the manual Icelandic translation of `acp/common.php`.
+- Completed the manual Icelandic translation of `ucp.php`.
