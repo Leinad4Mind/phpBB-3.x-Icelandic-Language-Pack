@@ -47,3 +47,4 @@
 - Completed the manual Icelandic translation of `install.php`.
 - Completed 10 report and contact email templates in Icelandic.
 - Completed 24 notification email templates in Icelandic.
+- Completed the remaining 17 account, installation, and update email templates.
