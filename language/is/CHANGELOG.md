@@ -34,3 +34,4 @@
 - Completed the manual Icelandic translation of `migrator.php`.
 - Completed the manual Icelandic translation of `plupload.php`.
 - Completed the manual Icelandic translation of `acp/search.php`.
+- Completed the manual Icelandic translation of `posting.php`.
