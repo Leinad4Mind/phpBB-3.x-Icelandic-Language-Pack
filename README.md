@@ -24,7 +24,7 @@ whose meaning changed between phpBB 3.0 and 3.3.
 - 91 entries reused through unambiguous translation memory;
 - 0 PHP language entries still require Icelandic translation;
 - 6 unchanged text/email templates reused;
-- 41 text/email templates still require Icelandic translation;
+- 17 text/email templates still require Icelandic translation;
 - the file tree and language keys match phpBB 3.3.19.
 
 This is currently a work in progress and should not yet be published as a

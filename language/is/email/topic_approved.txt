@@ -1,10 +1,10 @@
-Subject: Topic approved - "{TOPIC_TITLE}"
+Subject: Umræða samþykkt - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-Your topic "{TOPIC_TITLE}" at "{SITENAME}" was approved by a moderator or administrator.
+Umræðan þín "{TOPIC_TITLE}" á "{SITENAME}" var samþykkt af stjórnanda eða kerfisstjóra.
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða umræðuna:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}

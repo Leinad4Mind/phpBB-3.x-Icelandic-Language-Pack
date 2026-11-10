@@ -1,10 +1,10 @@
-Subject: Post disapproved - "{POST_SUBJECT}"
+Subject: Færslu hafnað - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-Your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Færslunni þinni "{POST_SUBJECT}" á "{SITENAME}" var hafnað af stjórnanda eða kerfisstjóra.
 
-The following reason was given for the disapproval:
+Eftirfarandi ástæða var gefin fyrir höfnuninni:
 
 {REASON}
 

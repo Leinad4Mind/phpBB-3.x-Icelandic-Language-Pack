@@ -1,15 +1,15 @@
-Subject: New topic in "{FORUM_NAME}"
+Subject: Ný umræða á "{FORUM_NAME}"
 List-Unsubscribe: <{U_STOP_WATCHING_FORUM}>
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The forum "{FORUM_NAME}" received a new topic "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit to "{SITENAME}". No more notifications will be sent until you visit the forum.
+Ný umræða, "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> eftir {AUTHOR_NAME}<!-- ENDIF -->, hefur verið stofnuð á spjallsvæðinu "{FORUM_NAME}" síðan þú heimsóttir "{SITENAME}" síðast. Engar frekari tilkynningar verða sendar fyrr en þú heimsækir spjallsvæðið.
 {U_FORUM}
 
-If you want to view the new topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða nýju umræðuna:
 {U_TOPIC}
 
-If you no longer wish to watch this forum click the following link:
+Ef þú vilt ekki lengur fylgjast með þessu spjallsvæði skaltu smella á eftirfarandi tengil:
 {U_STOP_WATCHING_FORUM}
 
 {EMAIL_SIG}

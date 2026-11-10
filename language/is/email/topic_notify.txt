@@ -1,20 +1,20 @@
-Subject: Reply in "{TOPIC_TITLE}"
+Subject: Svar í "{TOPIC_TITLE}"
 List-Unsubscribe: <{U_STOP_WATCHING_TOPIC}>
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The topic "{TOPIC_TITLE}" received a new reply<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit to "{SITENAME}". No more emails will be sent until you visit the topic.
+Nýtt svar hefur borist í umræðuna "{TOPIC_TITLE}"<!-- IF AUTHOR_NAME != '' --> frá {AUTHOR_NAME}<!-- ENDIF --> síðan þú heimsóttir "{SITENAME}" síðast. Engir frekari tölvupóstar verða sendir fyrr en þú heimsækir umræðuna.
 
-If you want to view the newest post click the following link:
+Smelltu á eftirfarandi tengil til að skoða nýjustu færsluna:
 {U_NEWEST_POST}
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða umræðuna:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Smelltu á eftirfarandi tengil til að skoða spjallsvæðið:
 {U_FORUM}
 
-If you no longer wish to watch this topic click the following link:
+Ef þú vilt ekki lengur fylgjast með þessari umræðu skaltu smella á eftirfarandi tengil:
 {U_STOP_WATCHING_TOPIC}
 
 {EMAIL_SIG}

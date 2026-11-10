@@ -1,13 +1,13 @@
-Subject: Topic needs approval - "{TOPIC_TITLE}"
+Subject: Umræða bíður samþykkis - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The topic "{TOPIC_TITLE}" at "{SITENAME}" needs approval.
+Umræðan "{TOPIC_TITLE}" á "{SITENAME}" bíður samþykkis.
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða umræðuna:
 {U_VIEW_TOPIC}
 
-If you want to view the forum, click the following link:
+Smelltu á eftirfarandi tengil til að skoða spjallsvæðið:
 {U_FORUM}
 
 {EMAIL_SIG}

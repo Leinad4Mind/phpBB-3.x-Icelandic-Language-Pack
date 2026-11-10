@@ -1,13 +1,13 @@
-Subject: Post approved - "{POST_SUBJECT}"
+Subject: Færsla samþykkt - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-Your post "{POST_SUBJECT}" at "{SITENAME}" was approved by a moderator or administrator.
+Færslan þín "{POST_SUBJECT}" á "{SITENAME}" var samþykkt af stjórnanda eða kerfisstjóra.
 
-If you want to view the post, click the following link:
+Smelltu á eftirfarandi tengil til að skoða færsluna:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða umræðuna:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}

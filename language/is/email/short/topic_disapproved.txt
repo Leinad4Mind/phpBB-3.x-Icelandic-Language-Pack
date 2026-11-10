@@ -1,10 +1,10 @@
-Subject: Topic disapproved - "{TOPIC_TITLE}"
+Subject: Umræðu hafnað - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-Your topic "{TOPIC_TITLE}" at "{SITENAME}" was disapproved by a moderator or administrator.
+Umræðunni þinni "{TOPIC_TITLE}" á "{SITENAME}" var hafnað af stjórnanda eða kerfisstjóra.
 
-The following reason was given for the disapproval:
+Eftirfarandi ástæða var gefin fyrir höfnuninni:
 
 {REASON}
 

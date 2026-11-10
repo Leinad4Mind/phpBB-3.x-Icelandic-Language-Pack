@@ -1,13 +1,13 @@
-Subject: Post needs approval - "{TOPIC_TITLE}"
+Subject: Færsla bíður samþykkis - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The post "{POST_SUBJECT}" at "{SITENAME}" needs approval.
+Færslan "{POST_SUBJECT}" á "{SITENAME}" bíður samþykkis.
 
-If you want to view the post, click the following link:
+Smelltu á eftirfarandi tengil til að skoða færsluna:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða umræðuna:
 {U_TOPIC}
 
 {EMAIL_SIG}

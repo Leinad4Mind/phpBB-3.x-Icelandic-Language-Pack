@@ -1,19 +1,19 @@
-Subject: Quoted in "{TOPIC_TITLE}"
+Subject: Vitnað í þig í "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-"{AUTHOR_NAME}" quoted you in the topic "{TOPIC_TITLE}" at "{SITENAME}".
+"{AUTHOR_NAME}" vitnaði í þig í umræðunni "{TOPIC_TITLE}" á "{SITENAME}".
 
-If you want to view the quoted post, click the following link:
+Smelltu á eftirfarandi tengil til að skoða færsluna þar sem vitnað var í þig:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Smelltu á eftirfarandi tengil til að skoða umræðuna:
 {U_TOPIC}
 
-If you want to view the forum, click the following link:
+Smelltu á eftirfarandi tengil til að skoða spjallsvæðið:
 {U_FORUM}
 
-If you no longer wish to receive updates about replies quoting you, please update your notification settings here:
+Ef þú vilt ekki lengur fá tilkynningar um svör þar sem vitnað er í þig skaltu breyta tilkynningastillingunum hér:
 {U_NOTIFICATION_SETTINGS}
 
 {EMAIL_SIG}
