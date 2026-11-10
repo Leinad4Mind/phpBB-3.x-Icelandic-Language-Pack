@@ -30,7 +30,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `cli.php` | 0 |
 | `common.php` | 0 |
 | `help/bbcode.php` | 0 |
-| `help/faq.php` | 147 |
+| `help/faq.php` | 0 |
 | `install.php` | 123 |
 | `mcp.php` | 31 |
 | `memberlist.php` | 0 |
@@ -41,7 +41,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `ucp.php` | 0 |
 | `viewforum.php` | 0 |
 | `viewtopic.php` | 0 |
-| **Total** | **499** |
+| **Total** | **352** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,

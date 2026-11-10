@@ -22,7 +22,7 @@ whose meaning changed between phpBB 3.0 and 3.3.
 
 - 3,541 entries reused by unchanged key and source text;
 - 91 entries reused through unambiguous translation memory;
-- 499 entries still require Icelandic translation;
+- 352 entries still require Icelandic translation;
 - 6 unchanged text/email templates reused;
 - 51 text/email templates still require Icelandic translation;
 - the file tree and language keys match phpBB 3.3.19.
