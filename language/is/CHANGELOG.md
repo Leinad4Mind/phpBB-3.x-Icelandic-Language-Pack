@@ -28,3 +28,4 @@
 - Completed the manual Icelandic translation of `acp/posting.php`.
 - Completed the manual Icelandic translation of `acp/styles.php`.
 - Completed the manual Icelandic translation of `memberlist.php`.
+- Completed the manual Icelandic translation of `acp/groups.php`.
