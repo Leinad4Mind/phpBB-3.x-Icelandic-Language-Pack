@@ -40,8 +40,8 @@ English sources. Counts below are untranslated top-level language entries.
 | `search.php` | 15 |
 | `ucp.php` | 150 |
 | `viewforum.php` | 0 |
-| `viewtopic.php` | 11 |
-| **Total** | **1,494** |
+| `viewtopic.php` | 0 |
+| **Total** | **1,483** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,

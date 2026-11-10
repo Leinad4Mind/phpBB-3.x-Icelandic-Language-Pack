@@ -37,7 +37,7 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'APPROVE'								=> 'Approve',
+	'APPROVE'								=> 'Samþykkja',
 	'ATTACHMENT'						=> 'Viðhengi',
 	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'Viðhengi eru ekki leyfð.',
 
@@ -50,20 +50,20 @@ $lang = array_merge($lang, array(
 	'BUMP_TOPIC'			=> 'Færa umræðu upp',
 
 	'DELETE_TOPIC'			=> 'Eyða umræðu',
-	'DELETED_INFORMATION'	=> 'Deleted by %1$s on %2$s',
-	'DISAPPROVE'					=> 'Disapprove',
+	'DELETED_INFORMATION'	=> 'Eytt af %1$s þann %2$s',
+	'DISAPPROVE'					=> 'Hafna',
 	'DOWNLOAD_NOTICE'		=> 'Þú hefur ekki næg réttindi til að skoða skrárnar í þessum póst.',
 
 	'EDITED_TIMES_TOTAL'	=> array(
-		1	=> 'Last edited by %2$s on %3$s, edited %1$d time in total.',
-		2	=> 'Last edited by %2$s on %3$s, edited %1$d times in total.',
+		1	=> 'Síðast breytt af %2$s þann %3$s, breytt samtals %1$d sinni.',
+		2	=> 'Síðast breytt af %2$s þann %3$s, breytt samtals %1$d sinnum.',
 	),
-	'EMAIL_TOPIC'			=> 'Email topic',
+	'EMAIL_TOPIC'			=> 'Senda umræðu í tölvupósti',
 	'ERROR_NO_ATTACHMENT'	=> 'Valin skrá er ekki lengur til.',
 
 	'FILE_NOT_FOUND_404'	=> 'Skráin <strong>%s</strong> er ekki til.',
 	'FORK_TOPIC'			=> 'Afrita umræðu',
-	'FULL_EDITOR'			=> 'Full Editor &amp; Preview',
+	'FULL_EDITOR'			=> 'Ítarlegur ritill og forskoðun',
 
 	'LINKAGE_FORBIDDEN'		=> 'Þú hefur ekki réttindi til að skoða, sækja eða gera hlekki á þennan vef.',
 	'LOGIN_NOTIFY_TOPIC'	=> 'Þú varst látinn vita af þessari umræðu, skráðu þig inn til að sjá hana.',
@@ -74,8 +74,8 @@ $lang = array_merge($lang, array(
 	'MAKE_NORMAL'				=> 'Breyta í „Venjulega umræðu“',
 	'MAKE_STICKY'				=> 'Breyta í „Límt“',
 	'MAX_OPTIONS_SELECT'		=> array(
-		1	=> 'You may select <strong>%d</strong> option',
-		2	=> 'You may select up to <strong>%d</strong> options',
+		1	=> 'Þú mátt velja <strong>%d</strong> valkost',
+		2	=> 'Þú mátt velja allt að <strong>%d</strong> valkosti',
 	),
 	'MISSING_INLINE_ATTACHMENT'	=> 'Skráin <strong>%s</strong> er ekki lengur aðgengileg',
 	'MOVE_TOPIC'				=> 'Færa umræðu',
@@ -86,25 +86,25 @@ $lang = array_merge($lang, array(
 	'NO_UNREAD_POSTS'		=> 'Það eru engir ólesnir póstar í þessu svæði.',
 	'NO_VOTE_OPTION'		=> 'Þú verður að velja valmöguleika þegar þú kýst.',
 	'NO_VOTES'				=> 'Engin atkvæði',
-	'NO_AUTH_PRINT_TOPIC'	=> 'You are not authorised to print topics.',
+	'NO_AUTH_PRINT_TOPIC'	=> 'Þú hefur ekki heimild til að prenta umræður.',
 
 	'POLL_ENDED_AT'			=> 'Skoðanakönnunin endaði þann %s',
 	'POLL_RUN_TILL'			=> 'Skoðanakönnunin er virk til %s',
 	'POLL_VOTED_OPTION'		=> 'Þú valdir þennann valkost',
-	'POST_DELETED_RESTORE'	=> 'This post has been deleted. It can be restored.',
+	'POST_DELETED_RESTORE'	=> 'Þessum pósti hefur verið eytt. Hægt er að endurheimta hann.',
 	'PRINT_TOPIC'			=> 'Prenthamur',
 
 	'QUICK_MOD'				=> 'Flýtiverkfæri póststjóra',
-	'QUICKREPLY'			=> 'Quick Reply',
+	'QUICKREPLY'			=> 'Flýtisvar',
 
 	'REPLY_TO_TOPIC'		=> 'Svara umræðu',
-	'RESTORE'				=> 'Restore',
-	'RESTORE_TOPIC'			=> 'Restore topic',
+	'RESTORE'				=> 'Endurheimta',
+	'RESTORE_TOPIC'			=> 'Endurheimta umræðu',
 	'RETURN_POST'			=> '%sFara aftur í póstinn%s',
 
 	'SUBMIT_VOTE'			=> 'Staðfesta atkvæði',
 
-	'TOPIC_TOOLS'			=> 'Topic tools',
+	'TOPIC_TOOLS'			=> 'Verkfæri umræðu',
 	'TOTAL_VOTES'			=> 'Samtals atkvæði',
 
 	'UNLOCK_TOPIC'			=> 'Taka lás af umræðu',
@@ -112,11 +112,11 @@ $lang = array_merge($lang, array(
 	'VIEW_INFO'				=> 'Upplýsingar um póst',
 	'VIEW_NEXT_TOPIC'		=> 'Næsta umræða',
 	'VIEW_PREVIOUS_TOPIC'	=> 'Fyrri umræða',
-	'VIEW_QUOTED_POST'		=> 'View quoted post',
+	'VIEW_QUOTED_POST'		=> 'Skoða tilvitnaðan póst',
 	'VIEW_RESULTS'			=> 'Sýna niðurstöður',
 	'VIEW_TOPIC_POSTS'		=> array(
-		1	=> '%d post',
-		2	=> '%d posts',
+		1	=> '%d póstur',
+		2	=> '%d póstar',
 	),
 	'VIEW_UNREAD_POST'		=> 'Fyrsti ólesni pósturinn',
 	'VOTE_SUBMITTED'		=> 'Atkvæði þitt hefur verið móttekið.',
