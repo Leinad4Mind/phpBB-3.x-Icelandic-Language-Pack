@@ -36,99 +36,99 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'EXTENSION'					=> 'Viðbót',
-	'EXTENSIONS'				=> 'Extensions',
-	'EXTENSIONS_ADMIN'			=> 'Extensions Manager',
-	'EXTENSIONS_EXPLAIN'		=> 'The Extensions Manager is a tool in your phpBB Board which allows you to manage all of your extensions statuses and view information about them.',
-	'EXTENSION_INVALID_LIST'	=> 'The “%s” extension is not valid.<br />%s<br /><br />',
-	'EXTENSION_NOT_AVAILABLE'	=> 'The selected extension is not available for this board, please verify your phpBB and PHP versions are allowed (see the details page).',
-	'EXTENSION_DIR_INVALID'		=> 'The selected extension has an invalid directory structure and cannot be enabled.',
-	'EXTENSION_NOT_ENABLEABLE'	=> 'The selected extension cannot be enabled, please verify the extension’s requirements.',
-	'EXTENSION_NOT_INSTALLED'	=> 'The extension %s is not available. Please check that you have installed it correctly.',
+	'EXTENSIONS'				=> 'Viðbætur',
+	'EXTENSIONS_ADMIN'			=> 'Viðbótastjóri',
+	'EXTENSIONS_EXPLAIN'		=> 'Viðbótastjórinn er verkfæri í phpBB-spjallborðinu sem gerir þér kleift að stjórna stöðu allra viðbóta og skoða upplýsingar um þær.',
+	'EXTENSION_INVALID_LIST'	=> 'Viðbótin „%s“ er ógild.<br />%s<br /><br />',
+	'EXTENSION_NOT_AVAILABLE'	=> 'Valda viðbótin er ekki tiltæk fyrir þetta spjallborð. Staðfestu að útgáfur phpBB og PHP séu studdar (sjá upplýsingasíðuna).',
+	'EXTENSION_DIR_INVALID'		=> 'Valda viðbótin hefur ógilda möppuskipan og ekki er hægt að virkja hana.',
+	'EXTENSION_NOT_ENABLEABLE'	=> 'Ekki er hægt að virkja völdu viðbótina. Athugaðu kröfur hennar.',
+	'EXTENSION_NOT_INSTALLED'	=> 'Viðbótin %s er ekki tiltæk. Athugaðu hvort hún hafi verið sett rétt upp.',
 
-	'DETAILS'				=> 'Details',
+	'DETAILS'				=> 'Nánari upplýsingar',
 
-	'EXTENSIONS_NOT_INSTALLED'	=> 'Not installed Extensions',
-	'EXTENSIONS_DISABLED'		=> 'Disabled Extensions',
-	'EXTENSIONS_ENABLED'		=> 'Enabled Extensions',
+	'EXTENSIONS_NOT_INSTALLED'	=> 'Óuppsettar viðbætur',
+	'EXTENSIONS_DISABLED'		=> 'Óvirkar viðbætur',
+	'EXTENSIONS_ENABLED'		=> 'Virkar viðbætur',
 
-	'EXTENSION_DELETE_DATA'	=> 'Delete data',
-	'EXTENSION_DISABLE'		=> 'Disable',
-	'EXTENSION_ENABLE'		=> 'Enable',
+	'EXTENSION_DELETE_DATA'	=> 'Eyða gögnum',
+	'EXTENSION_DISABLE'		=> 'Gera óvirka',
+	'EXTENSION_ENABLE'		=> 'Virkja',
 
-	'EXTENSION_DELETE_DATA_EXPLAIN'	=> 'Deleting an extension’s data removes all of its data and settings. The extension files are retained so it can be enabled again.',
-	'EXTENSION_DISABLE_EXPLAIN'		=> 'Disabling an extension retains its files, data and settings but removes any functionality added by the extension.',
-	'EXTENSION_ENABLE_EXPLAIN'		=> 'Enabling an extension allows you to use it on your board.',
+	'EXTENSION_DELETE_DATA_EXPLAIN'	=> 'Þegar gögnum viðbótar er eytt eru öll gögn hennar og stillingar fjarlægð. Skrár viðbótarinnar haldast svo hægt sé að virkja hana aftur.',
+	'EXTENSION_DISABLE_EXPLAIN'		=> 'Þegar viðbót er gerð óvirk haldast skrár, gögn og stillingar hennar, en virkni sem hún bætti við er fjarlægð.',
+	'EXTENSION_ENABLE_EXPLAIN'		=> 'Þegar viðbót er virkjuð getur þú notað hana á spjallborðinu.',
 
-	'EXTENSION_DELETE_DATA_IN_PROGRESS'	=> 'The extension’s data is currently being deleted. Please do not leave or refresh this page until it is completed.',
-	'EXTENSION_DISABLE_IN_PROGRESS'	=> 'The extension is currently being disabled. Please do not leave or refresh this page until it is completed.',
-	'EXTENSION_ENABLE_IN_PROGRESS'	=> 'The extension is currently being enabled. Please do not leave or refresh this page until it is completed.',
+	'EXTENSION_DELETE_DATA_IN_PROGRESS'	=> 'Nú er verið að eyða gögnum viðbótarinnar. Ekki yfirgefa eða endurhlaða þessa síðu fyrr en aðgerðinni er lokið.',
+	'EXTENSION_DISABLE_IN_PROGRESS'	=> 'Nú er verið að gera viðbótina óvirka. Ekki yfirgefa eða endurhlaða þessa síðu fyrr en aðgerðinni er lokið.',
+	'EXTENSION_ENABLE_IN_PROGRESS'	=> 'Nú er verið að virkja viðbótina. Ekki yfirgefa eða endurhlaða þessa síðu fyrr en aðgerðinni er lokið.',
 
-	'EXTENSION_DELETE_DATA_SUCCESS'	=> 'The extension’s data was deleted successfully',
-	'EXTENSION_DISABLE_SUCCESS'		=> 'The extension was disabled successfully',
-	'EXTENSION_ENABLE_SUCCESS'		=> 'The extension was enabled successfully',
+	'EXTENSION_DELETE_DATA_SUCCESS'	=> 'Gögnum viðbótarinnar var eytt',
+	'EXTENSION_DISABLE_SUCCESS'		=> 'Viðbótin var gerð óvirk',
+	'EXTENSION_ENABLE_SUCCESS'		=> 'Viðbótin var virkjuð',
 
-	'EXTENSION_NAME'			=> 'Extension Name',
-	'EXTENSION_ACTIONS'			=> 'Actions',
-	'EXTENSION_OPTIONS'			=> 'Options',
-	'EXTENSION_INSTALL_HEADLINE'=> 'Installing an extension',
+	'EXTENSION_NAME'			=> 'Heiti viðbótar',
+	'EXTENSION_ACTIONS'			=> 'Aðgerðir',
+	'EXTENSION_OPTIONS'			=> 'Valkostir',
+	'EXTENSION_INSTALL_HEADLINE'=> 'Uppsetning viðbótar',
 	'EXTENSION_INSTALL_EXPLAIN'	=> '<ol>
-			<li>Download an extension from phpBB’s extensions database</li>
-			<li>Unzip the extension and upload it to the <samp>ext/</samp> directory of your phpBB board</li>
-			<li>Enable the extension, here in the Extensions manager</li>
+			<li>Sæktu viðbót úr viðbótagagnagrunni phpBB</li>
+			<li>Afþjappaðu viðbótinni og hladdu henni upp í möppuna <samp>ext/</samp> á phpBB-spjallborðinu</li>
+			<li>Virkjaðu viðbótina hér í viðbótastjóranum</li>
 		</ol>',
-	'EXTENSION_UPDATE_HEADLINE'	=> 'Updating an extension',
+	'EXTENSION_UPDATE_HEADLINE'	=> 'Uppfærsla viðbótar',
 	'EXTENSION_UPDATE_EXPLAIN'	=> '<ol>
-			<li>Disable the extension</li>
-			<li>Delete the extension’s files from the filesystem</li>
-			<li>Upload the new files</li>
-			<li>Enable the extension</li>
+			<li>Gerðu viðbótina óvirka</li>
+			<li>Eyddu skrám viðbótarinnar úr skráakerfinu</li>
+			<li>Hladdu upp nýju skránum</li>
+			<li>Virkjaðu viðbótina</li>
 		</ol>',
-	'EXTENSION_REMOVE_HEADLINE'	=> 'Completely removing an extension from your board',
+	'EXTENSION_REMOVE_HEADLINE'	=> 'Viðbót fjarlægð að fullu af spjallborðinu',
 	'EXTENSION_REMOVE_EXPLAIN'	=> '<ol>
-			<li>Disable the extension</li>
-			<li>Delete the extension’s data</li>
-			<li>Delete the extension’s files from the filesystem</li>
+			<li>Gerðu viðbótina óvirka</li>
+			<li>Eyddu gögnum viðbótarinnar</li>
+			<li>Eyddu skrám viðbótarinnar úr skráakerfinu</li>
 		</ol>',
 
-	'EXTENSION_DELETE_DATA_CONFIRM'	=> 'Are you sure that you wish to delete the data associated with “%s”?<br /><br />This removes all of its data and settings and cannot be undone!',
-	'EXTENSION_DISABLE_CONFIRM'		=> 'Are you sure that you wish to disable the “%s” extension?',
-	'EXTENSION_ENABLE_CONFIRM'		=> 'Are you sure that you wish to enable the “%s” extension?',
-	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'Are you sure that you wish to force the use of unstable version?',
+	'EXTENSION_DELETE_DATA_CONFIRM'	=> 'Ertu viss um að þú viljir eyða gögnunum sem tengjast „%s“?<br /><br />Þetta fjarlægir öll gögn og stillingar viðbótarinnar og ekki er hægt að afturkalla aðgerðina!',
+	'EXTENSION_DISABLE_CONFIRM'		=> 'Ertu viss um að þú viljir gera viðbótina „%s“ óvirka?',
+	'EXTENSION_ENABLE_CONFIRM'		=> 'Ertu viss um að þú viljir virkja viðbótina „%s“?',
+	'EXTENSION_FORCE_UNSTABLE_CONFIRM'	=> 'Ertu viss um að þú viljir þvinga fram notkun óstöðugrar útgáfu?',
 
-	'RETURN_TO_EXTENSION_LIST'	=> 'Return to the extension list',
+	'RETURN_TO_EXTENSION_LIST'	=> 'Fara aftur á viðbótalistann',
 
-	'EXT_DETAILS'			=> 'Extension Details',
-	'DISPLAY_NAME'			=> 'Display Name',
-	'CLEAN_NAME'			=> 'Clean Name',
-	'TYPE'					=> 'Type',
-	'DESCRIPTION'			=> 'Description',
-	'VERSION'				=> 'Version',
-	'HOMEPAGE'				=> 'Homepage',
-	'PATH'					=> 'File Path',
-	'TIME'					=> 'Release Time',
-	'LICENSE'				=> 'Licence',
+	'EXT_DETAILS'			=> 'Upplýsingar um viðbót',
+	'DISPLAY_NAME'			=> 'Birtingarheiti',
+	'CLEAN_NAME'			=> 'Hreint heiti',
+	'TYPE'					=> 'Tegund',
+	'DESCRIPTION'			=> 'Lýsing',
+	'VERSION'				=> 'Útgáfa',
+	'HOMEPAGE'				=> 'Heimasíða',
+	'PATH'					=> 'Skrárslóð',
+	'TIME'					=> 'Útgáfutími',
+	'LICENSE'				=> 'Notkunarleyfi',
 
-	'REQUIREMENTS'			=> 'Requirements',
-	'PHPBB_VERSION'			=> 'phpBB Version',
-	'PHP_VERSION'			=> 'PHP Version',
-	'AUTHOR_INFORMATION'	=> 'Author Information',
-	'AUTHOR_NAME'			=> 'Name',
-	'AUTHOR_EMAIL'			=> 'Email',
-	'AUTHOR_HOMEPAGE'		=> 'Homepage',
-	'AUTHOR_ROLE'			=> 'Role',
+	'REQUIREMENTS'			=> 'Kröfur',
+	'PHPBB_VERSION'			=> 'phpBB-útgáfa',
+	'PHP_VERSION'			=> 'PHP-útgáfa',
+	'AUTHOR_INFORMATION'	=> 'Upplýsingar um höfund',
+	'AUTHOR_NAME'			=> 'Nafn',
+	'AUTHOR_EMAIL'			=> 'Netfang',
+	'AUTHOR_HOMEPAGE'		=> 'Heimasíða',
+	'AUTHOR_ROLE'			=> 'Hlutverk',
 
-	'NOT_UP_TO_DATE'		=> '%s is not up to date',
-	'UP_TO_DATE'			=> '%s is up to date',
-	'ANNOUNCEMENT_TOPIC'	=> 'Release Announcement',
-	'DOWNLOAD_LATEST'		=> 'Download Version',
-	'NO_VERSIONCHECK'		=> 'No version check information given.',
+	'NOT_UP_TO_DATE'		=> '%s er ekki af nýjustu útgáfu',
+	'UP_TO_DATE'			=> '%s er af nýjustu útgáfu',
+	'ANNOUNCEMENT_TOPIC'	=> 'Útgáfutilkynning',
+	'DOWNLOAD_LATEST'		=> 'Sækja útgáfu',
+	'NO_VERSIONCHECK'		=> 'Engar upplýsingar um útgáfuathugun voru gefnar.',
 
-	'VERSIONCHECK_FORCE_UPDATE_ALL'		=> 'Re-Check all versions',
-	'FORCE_UNSTABLE'					=> 'Always check for unstable versions',
-	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'Version check settings',
+	'VERSIONCHECK_FORCE_UPDATE_ALL'		=> 'Athuga allar útgáfur aftur',
+	'FORCE_UNSTABLE'					=> 'Athuga alltaf óstöðugar útgáfur',
+	'EXTENSIONS_VERSION_CHECK_SETTINGS'	=> 'Stillingar útgáfuathugunar',
 
-	'BROWSE_EXTENSIONS_DATABASE'		=> 'Browse extensions database',
+	'BROWSE_EXTENSIONS_DATABASE'		=> 'Skoða viðbótagagnagrunninn',
 
-	'META_FIELD_NOT_SET'	=> 'Required meta field %s has not been set.',
-	'META_FIELD_INVALID'	=> 'Meta field %s is invalid.',
+	'META_FIELD_NOT_SET'	=> 'Nauðsynlegi lýsigagnareiturinn %s hefur ekki verið stilltur.',
+	'META_FIELD_INVALID'	=> 'Lýsigagnareiturinn %s er ógildur.',
 ));
