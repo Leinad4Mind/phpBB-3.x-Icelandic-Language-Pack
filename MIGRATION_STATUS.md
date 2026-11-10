@@ -17,7 +17,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `acp/groups.php` | 0 |
 | `acp/language.php` | 0 |
 | `acp/permissions.php` | 51 |
-| `acp/permissions_phpbb.php` | 129 |
+| `acp/permissions_phpbb.php` | 0 |
 | `acp/posting.php` | 0 |
 | `acp/profile.php` | 0 |
 | `acp/prune.php` | 0 |
@@ -41,7 +41,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `ucp.php` | 150 |
 | `viewforum.php` | 0 |
 | `viewtopic.php` | 0 |
-| **Total** | **1,088** |
+| **Total** | **959** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,
