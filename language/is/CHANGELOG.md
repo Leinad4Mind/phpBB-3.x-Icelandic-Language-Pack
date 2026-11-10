@@ -22,3 +22,4 @@
 - Completed the manual Icelandic translation of `acp/forums.php`.
 - Completed the manual Icelandic translation of `viewtopic.php`.
 - Completed the manual Icelandic translation of `acp/ban.php`.
+- Completed the manual Icelandic translation of `captcha_recaptcha.php`.
