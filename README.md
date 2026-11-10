@@ -36,8 +36,7 @@ English source had one unambiguous Icelandic match. All new and changed text
 was translated and reviewed against phpBB 3.3.19.
 
 This method prevents obsolete translations from being assigned to keys whose
-meaning changed between phpBB 3.0 and 3.3. The migration completion record is
-available in [MIGRATION_STATUS.md](MIGRATION_STATUS.md).
+meaning changed between phpBB 3.0 and 3.3.
 
 ## Credits
 
