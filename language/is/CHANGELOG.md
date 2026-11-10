@@ -40,3 +40,4 @@
 - Completed the manual Icelandic translation of `acp/common.php`.
 - Completed the manual Icelandic translation of `ucp.php`.
 - Completed the manual Icelandic translation of `cli.php`.
+- Completed the manual Icelandic translation of `help/bbcode.php`.
