@@ -1,13 +1,13 @@
 
-Hello {TO_USERNAME},
+Halló {TO_USERNAME},
 
-The following is an email sent to you by {FROM_USERNAME} via your account on "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Eftirfarandi tölvupóstur var sendur til þín af {FROM_USERNAME} í gegnum reikninginn þinn á "{SITENAME}". Ef skilaboðin eru ruslpóstur, innihalda móðgandi ummæli eða annað efni sem þér finnst særandi skaltu hafa samband við kerfisstjóra spjallborðsins á eftirfarandi netfangi:
 
 {BOARD_CONTACT}
 
-Include this full email (particularly the headers). Please note that the reply address to this email has been set to that of {FROM_USERNAME}.
+Láttu allan tölvupóstinn fylgja með, einkum hausana. Athugaðu að svarfang tölvupóstsins hefur verið stillt á netfang {FROM_USERNAME}.
 
-Message sent to you follows
+Skilaboðin sem voru send til þín eru hér fyrir neðan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}

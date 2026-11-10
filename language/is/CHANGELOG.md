@@ -45,3 +45,4 @@
 - Completed the manual Icelandic translation of `mcp.php`.
 - Completed the manual Icelandic translation of `acp/board.php`.
 - Completed the manual Icelandic translation of `install.php`.
+- Completed 10 report and contact email templates in Icelandic.

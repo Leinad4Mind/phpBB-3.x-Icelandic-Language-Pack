@@ -1,13 +1,13 @@
-Subject: Report closed - "{POST_SUBJECT}"
+Subject: Tilkynningu lokað - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The report you filed on the post "{POST_SUBJECT}" by "{AUTHOR_NAME}" in "{TOPIC_TITLE}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a private message.
+Stjórnandi eða kerfisstjóri hefur afgreitt tilkynninguna sem þú sendir vegna færslunnar "{POST_SUBJECT}" eftir "{AUTHOR_NAME}" í umræðunni "{TOPIC_TITLE}" á "{SITENAME}". Tilkynningunni var síðan lokað. Ef þú hefur fleiri spurningar skaltu senda {CLOSER_NAME} einkaskilaboð.
 
-You can view your reported post by clicking on the following link:
+Þú getur skoðað færsluna sem þú tilkynntir með því að smella á eftirfarandi tengil:
 
 {U_VIEW_POST}
 
-You have requested that you be notified on this event, remember that you can always choose not to be notified of closed post reports by changing the appropriate setting in your profile.
+Þú óskaðir eftir tilkynningu um þessa aðgerð. Mundu að þú getur hvenær sem er valið að fá ekki tilkynningar þegar tilkynningum um færslur er lokað með því að breyta viðeigandi stillingu í notandasniðinu þínu.
 
 {EMAIL_SIG}

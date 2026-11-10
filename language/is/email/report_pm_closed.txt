@@ -1,13 +1,13 @@
-Subject: Private message report closed - "{SUBJECT}"
+Subject: Tilkynningu um einkaskilaboð lokað - "{SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The report you filed on the private message "{SUBJECT}" by "{AUTHOR_NAME}" at "{SITENAME}" was handled by a moderator or by an administrator. The report was afterwards closed. If you have further questions contact {CLOSER_NAME} with a private message.
+Stjórnandi eða kerfisstjóri hefur afgreitt tilkynninguna sem þú sendir vegna einkaskilaboðanna "{SUBJECT}" eftir "{AUTHOR_NAME}" á "{SITENAME}". Tilkynningunni var síðan lokað. Ef þú hefur fleiri spurningar skaltu senda {CLOSER_NAME} einkaskilaboð.
 
-You can view your reported private message by clicking on the following link:
+Þú getur skoðað einkaskilaboðin sem þú tilkynntir með því að smella á eftirfarandi tengil:
 
 {U_VIEW_MESSAGE}
 
-You have requested that you be notified on this event, remember that you can always choose not to be notified of closed private message reports by changing the appropriate setting in your profile.
+Þú óskaðir eftir tilkynningu um þessa aðgerð. Mundu að þú getur hvenær sem er valið að fá ekki tilkynningar þegar tilkynningum um einkaskilaboð er lokað með því að breyta viðeigandi stillingu í notandasniðinu þínu.
 
 {EMAIL_SIG}

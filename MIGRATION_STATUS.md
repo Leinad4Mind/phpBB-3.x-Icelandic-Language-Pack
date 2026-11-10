@@ -45,6 +45,6 @@ English sources. Counts below are untranslated top-level language entries.
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,
-`user_activate_inactive.txt`, and `user_remind_inactive.txt`. The remaining 51
+`user_activate_inactive.txt`, and `user_remind_inactive.txt`. The remaining 41
 text/email templates retain the phpBB 3.3.19 British English source pending a
 fresh Icelandic translation.

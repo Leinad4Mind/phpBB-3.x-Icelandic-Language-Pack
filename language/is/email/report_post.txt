@@ -1,13 +1,13 @@
-Subject: Post report - "{TOPIC_TITLE}"
+Subject: Tilkynning um færslu - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The post "{POST_SUBJECT}" at "{SITENAME}" was reported.
+Færslan "{POST_SUBJECT}" á "{SITENAME}" var tilkynnt.
 
-If you want to view the report, click the following link:
+Ef þú vilt skoða tilkynninguna skaltu smella á eftirfarandi tengil:
 {U_VIEW_REPORT}
 
-If you want to view the post, click the following link:
+Ef þú vilt skoða færsluna skaltu smella á eftirfarandi tengil:
 {U_VIEW_POST}
 
 {EMAIL_SIG}

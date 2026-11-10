@@ -1,9 +1,9 @@
-Subject: Report closed - "{PM_SUBJECT}"
+Subject: Tilkynningu lokað - "{PM_SUBJECT}"
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-The report you filed regarding the private message "{PM_SUBJECT}" at "{SITENAME}" has been tended to by a moderator or administrator. The report is now closed.
+Stjórnandi eða kerfisstjóri hefur afgreitt tilkynninguna sem þú sendir vegna einkaskilaboðanna "{PM_SUBJECT}" á "{SITENAME}". Tilkynningunni hefur nú verið lokað.
 
-If you have further questions, please contact {CLOSER_NAME} by private message.
+Ef þú hefur fleiri spurningar skaltu senda {CLOSER_NAME} einkaskilaboð.
 
 {EMAIL_SIG}
