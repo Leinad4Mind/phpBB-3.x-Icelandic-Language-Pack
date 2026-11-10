@@ -38,47 +38,47 @@ if (empty($lang) || !is_array($lang))
 
 // Banning
 $lang = array_merge($lang, array(
-	'1_HOUR'		=> '1 hour',
-	'30_MINS'		=> '30 minutes',
-	'6_HOURS'		=> '6 hours',
+	'1_HOUR'		=> '1 klukkustund',
+	'30_MINS'		=> '30 mínútur',
+	'6_HOURS'		=> '6 klukkustundir',
 
-	'ACP_BAN_EXPLAIN'	=> 'Here you can control the banning of users by name, IP or email address. These methods prevent a user reaching any part of the board. You can give a short (maximum 3000 characters) reason for the ban if you wish. This will be displayed in the admin log. The duration of a ban can also be specified. If you want the ban to end on a specific date rather than after a set time period select <span style="text-decoration: underline;">Until -&gt;</span> for the ban length and enter a date in <kbd>YYYY-MM-DD</kbd> format.',
+	'ACP_BAN_EXPLAIN'	=> 'Hér getur þú stjórnað bönnum notenda eftir nafni, IP-tölu eða netfangi. Þessar aðferðir koma í veg fyrir að notandi komist að nokkrum hluta spjallborðsins. Ef þú vilt getur þú gefið stutta ástæðu fyrir banninu, að hámarki 3000 stafi. Hún birtist í stjórnandaannálnum. Einnig er hægt að tilgreina gildistíma banns. Ef bannið á að renna út á tilteknum degi í stað þess að vara í ákveðinn tíma skaltu velja <span style="text-decoration: underline;">Til -&gt;</span> sem lengd banns og slá inn dagsetningu á sniðinu <kbd>YYYY-MM-DD</kbd>.',
 
-	'BAN_EXCLUDE'			=> 'Exclude from banning',
-	'BAN_LENGTH'			=> 'Length of ban',
-	'BAN_REASON'			=> 'Reason for ban',
-	'BAN_GIVE_REASON'		=> 'Reason shown to the banned',
-	'BAN_UPDATE_SUCCESSFUL'	=> 'The banlist has been updated successfully.',
-	'BANNED_UNTIL_DATE'		=> 'until %s', // Example: "until Mon 13.Jul.2009, 14:44"
-	'BANNED_UNTIL_DURATION'	=> '%1$s (until %2$s)', // Example: "7 days (until Tue 14.Jul.2009, 14:44)"
+	'BAN_EXCLUDE'			=> 'Undanþiggja banni',
+	'BAN_LENGTH'			=> 'Lengd banns',
+	'BAN_REASON'			=> 'Ástæða banns',
+	'BAN_GIVE_REASON'		=> 'Ástæða sem hinum bannaða er sýnd',
+	'BAN_UPDATE_SUCCESSFUL'	=> 'Bannlistinn var uppfærður.',
+	'BANNED_UNTIL_DATE'		=> 'til %s', // Example: "until Mon 13.Jul.2009, 14:44"
+	'BANNED_UNTIL_DURATION'	=> '%1$s (til %2$s)', // Example: "7 days (until Tue 14.Jul.2009, 14:44)"
 
-	'EMAIL_BAN'					=> 'Ban one or more email addresses',
-	'EMAIL_BAN_EXCLUDE_EXPLAIN'	=> 'Enable this to exclude the entered email address from all current bans.',
-	'EMAIL_BAN_EXPLAIN'			=> 'To specify more than one email address enter each on a new line. To match partial addresses use * as the wildcard, e.g. <samp>*@hotmail.com</samp>, <samp>*@*.domain.tld</samp>, etc.',
-	'EMAIL_NO_BANNED'			=> 'No banned email addresses',
-	'EMAIL_UNBAN'				=> 'Un-ban or un-exclude emails',
-	'EMAIL_UNBAN_EXPLAIN'		=> 'You can unban (or un-exclude) multiple email addresses in one go using the appropriate combination of mouse and keyboard for your computer and browser. Excluded email addresses are emphasised.',
+	'EMAIL_BAN'					=> 'Banna eitt eða fleiri netföng',
+	'EMAIL_BAN_EXCLUDE_EXPLAIN'	=> 'Virkjaðu þetta til að undanþiggja uppgefið netfang öllum núverandi bönnum.',
+	'EMAIL_BAN_EXPLAIN'			=> 'Sláðu hvert netfang í nýja línu til að tilgreina fleiri en eitt. Notaðu * sem algildisstaf til að samsvara hluta netfangs, t.d. <samp>*@hotmail.com</samp> eða <samp>*@*.domain.tld</samp>.',
+	'EMAIL_NO_BANNED'			=> 'Engin bönnuð netföng',
+	'EMAIL_UNBAN'				=> 'Aflétta banni eða undanþágu netfanga',
+	'EMAIL_UNBAN_EXPLAIN'		=> 'Þú getur aflétt banni eða undanþágu margra netfanga í einu með viðeigandi samsetningu músar og lyklaborðs fyrir tölvuna þína og vafra. Undanþegin netföng eru auðkennd.',
 
-	'IP_BAN'					=> 'Ban one or more IPs',
-	'IP_BAN_EXCLUDE_EXPLAIN'	=> 'Enable this to exclude the entered IP from all current bans.',
-	'IP_BAN_EXPLAIN'			=> 'To specify several different IPs or hostnames enter each on a new line. To specify a range of IP addresses separate the start and end with a hyphen (-), to specify a wildcard use “*”.',
-	'IP_HOSTNAME'				=> 'IP addresses or hostnames',
-	'IP_NO_BANNED'				=> 'No banned IP addresses',
-	'IP_UNBAN'					=> 'Un-ban or un-exclude IPs',
-	'IP_UNBAN_EXPLAIN'			=> 'You can unban (or un-exclude) multiple IP addresses in one go using the appropriate combination of mouse and keyboard for your computer and browser. Excluded IPs are emphasised.',
+	'IP_BAN'					=> 'Banna eina eða fleiri IP-tölur',
+	'IP_BAN_EXCLUDE_EXPLAIN'	=> 'Virkjaðu þetta til að undanþiggja uppgefna IP-tölu öllum núverandi bönnum.',
+	'IP_BAN_EXPLAIN'			=> 'Sláðu hverja IP-tölu eða vélarheiti í nýja línu til að tilgreina fleiri en eitt. Til að tilgreina bil IP-talna skaltu aðskilja upphaf og endi með bandstriki (-); notaðu „*“ sem algildisstaf.',
+	'IP_HOSTNAME'				=> 'IP-tölur eða vélarheiti',
+	'IP_NO_BANNED'				=> 'Engar bannaðar IP-tölur',
+	'IP_UNBAN'					=> 'Aflétta banni eða undanþágu IP-talna',
+	'IP_UNBAN_EXPLAIN'			=> 'Þú getur aflétt banni eða undanþágu margra IP-talna í einu með viðeigandi samsetningu músar og lyklaborðs fyrir tölvuna þína og vafra. Undanþegnar IP-tölur eru auðkenndar.',
 
-	'LENGTH_BAN_INVALID'		=> 'The date has to be formatted <kbd>YYYY-MM-DD</kbd>.',
+	'LENGTH_BAN_INVALID'		=> 'Dagsetningin verður að vera á sniðinu <kbd>YYYY-MM-DD</kbd>.',
 
-	'OPTIONS_BANNED'			=> 'Banned',
-	'OPTIONS_EXCLUDED'			=> 'Excluded',
+	'OPTIONS_BANNED'			=> 'Bannað',
+	'OPTIONS_EXCLUDED'			=> 'Undanþegið',
 
-	'PERMANENT'		=> 'Permanent',
+	'PERMANENT'		=> 'Varanlegt',
 
-	'UNTIL'						=> 'Until',
-	'USER_BAN'					=> 'Ban one or more users by username',
-	'USER_BAN_EXCLUDE_EXPLAIN'	=> 'Enable this to exclude the entered users from all current bans.',
-	'USER_BAN_EXPLAIN'			=> 'You can ban multiple users in one go by entering each name on a new line. Use the <span style="text-decoration: underline;">Find a member</span> facility to look up and add one or more users automatically.',
-	'USER_NO_BANNED'			=> 'No banned usernames',
-	'USER_UNBAN'				=> 'Un-ban or un-exclude users by username',
-	'USER_UNBAN_EXPLAIN'		=> 'You can unban (or un-exclude) multiple users in one go using the appropriate combination of mouse and keyboard for your computer and browser. Excluded users are emphasised.',
+	'UNTIL'						=> 'Til',
+	'USER_BAN'					=> 'Banna einn eða fleiri notendur eftir notandanafni',
+	'USER_BAN_EXCLUDE_EXPLAIN'	=> 'Virkjaðu þetta til að undanþiggja uppgefna notendur öllum núverandi bönnum.',
+	'USER_BAN_EXPLAIN'			=> 'Þú getur bannað marga notendur í einu með því að slá hvert nafn í nýja línu. Notaðu <span style="text-decoration: underline;">Finna meðlim</span> til að leita að einum eða fleiri notendum og bæta þeim sjálfkrafa við.',
+	'USER_NO_BANNED'			=> 'Engin bönnuð notandanöfn',
+	'USER_UNBAN'				=> 'Aflétta banni eða undanþágu notenda eftir notandanafni',
+	'USER_UNBAN_EXPLAIN'		=> 'Þú getur aflétt banni eða undanþágu margra notenda í einu með viðeigandi samsetningu músar og lyklaborðs fyrir tölvuna þína og vafra. Undanþegnir notendur eru auðkenndir.',
 ));
