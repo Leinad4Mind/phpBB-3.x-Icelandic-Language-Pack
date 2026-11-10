@@ -1,19 +1,19 @@
-Subject: phpBB installed
+Subject: phpBB sett upp
 
-Congratulations,
+Til hamingju,
 
-You have successfully installed phpBB on your server.
+Þú hefur sett phpBB upp á þjóninum.
 
-This email contains important information regarding your installation and should be kept for reference. Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Þessi tölvupóstur inniheldur mikilvægar upplýsingar um uppsetninguna og þú ættir að geyma hann til upplýsingar. Lykilorðið þitt hefur verið vistað á öruggan hátt í gagnagrunninum okkar og ekki er hægt að endurheimta það. Ef þú gleymir því getur þú endurstillt það með netfanginu sem tengist reikningnum.
 
 ----------------------------
-Username: {USERNAME}
+Notandanafn: {USERNAME}
 
-Board URL: {U_BOARD}
+Vefslóð spjallborðs: {U_BOARD}
 ----------------------------
 
-Useful information regarding the phpBB software can be found in the docs folder of your installation and on phpBB.com's support page - https://www.phpbb.com/support/
+Gagnlegar upplýsingar um phpBB-hugbúnaðinn eru í docs-möppu uppsetningarinnar og á þjónustusíðu phpBB.com: https://www.phpbb.com/support/
 
-In order to keep your board safe and secure, we highly recommended keeping current with software releases. For your convenience, a mailing list is available at the page referenced above.
+Til að halda spjallborðinu öruggu mælum við eindregið með að þú fylgist með nýjum útgáfum hugbúnaðarins. Til hægðarauka er póstlisti tiltækur á síðunni hér að ofan.
 
 {EMAIL_SIG}

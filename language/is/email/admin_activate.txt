@@ -1,13 +1,13 @@
-Subject: Activate user account
+Subject: Virkja notandareikning
 
-Hello,
+Halló,
 
-The account owned by "{USERNAME}" has been deactivated or newly created, you should check the details of this user (if required) and handle it appropriately.
+Reikningurinn sem „{USERNAME}“ á hefur verið gerður óvirkur eða var nýlega stofnaður. Þú ættir að fara yfir upplýsingar notandans, ef þörf krefur, og bregðast við á viðeigandi hátt.
 
-Use this link to view the user's profile:
+Notaðu þennan tengil til að skoða notandasíðuna:
 {U_USER_DETAILS}
 
-You may activate the account immediately by clicking on this link:
+Þú getur virkjað reikninginn strax með því að smella á þennan tengil:
 {U_ACTIVATE}
 
 {EMAIL_SIG}

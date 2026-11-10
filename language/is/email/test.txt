@@ -1,13 +1,13 @@
-Subject: phpBB is correctly configured to send emails
+Subject: phpBB er rétt stillt til að senda tölvupóst
 
-Hello {USERNAME},
+Halló {USERNAME},
 
-Congratulations. If you received this email, phpBB is correctly configured to send emails.
+Til hamingju. Ef þú fékkst þennan tölvupóst er phpBB rétt stillt til að senda tölvupóst.
 
 <!-- IF MESSAGE -->
 {MESSAGE}
 
 <!-- ENDIF -->
-In case you require assistance, please visit the phpBB support forums - https://www.phpbb.com/community/
+Ef þú þarft aðstoð skaltu heimsækja þjónustuspjallsvæði phpBB: https://www.phpbb.com/community/
 
 {EMAIL_SIG}

@@ -1,19 +1,19 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Velkomin á „{SITENAME}“
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Geymdu þennan tölvupóst til upplýsingar. Reikningsupplýsingarnar þínar eru eftirfarandi:
 
 ----------------------------
-Username: {USERNAME}
+Notandanafn: {USERNAME}
 
-Board URL: {U_BOARD}
+Vefslóð spjallborðs: {U_BOARD}
 ----------------------------
 
-Your account is currently inactive and will need to be approved by an administrator before you can log in. Another email will be sent when this has occurred.
+Reikningurinn þinn er óvirkur sem stendur og kerfisstjóri þarf að samþykkja hann áður en þú getur skráð þig inn. Annar tölvupóstur verður sendur þegar það hefur verið gert.
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+Lykilorðið þitt hefur verið vistað á öruggan hátt í gagnagrunninum okkar og ekki er hægt að endurheimta það. Ef þú gleymir því getur þú endurstillt það með netfanginu sem tengist reikningnum.
 
-Thank you for registering.
+Þakka þér fyrir skráninguna.
 
 {EMAIL_SIG}

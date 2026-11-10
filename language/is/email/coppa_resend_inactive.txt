@@ -1,42 +1,42 @@
-Subject: Welcome to "{SITENAME}"
+Subject: Velkomin á „{SITENAME}“
 
 {WELCOME_MSG}
 
-In compliance with the COPPA, your account is currently inactive.
+Í samræmi við COPPA er reikningurinn þinn óvirkur sem stendur.
 
-Please print this message and have your parent or guardian sign and date it. Then fax it to:
+Prentaðu þessi skilaboð og láttu foreldri eða forráðamann undirrita og dagsetja þau. Sendu þau síðan með símbréfi til:
 
 {FAX_INFO}
 
-OR mail it to:
+EÐA sendu þau í pósti til:
 
 {MAIL_INFO}
 
------------------------------- CUT HERE ------------------------------
-Permission to participate at "{SITENAME}" - {U_BOARD}
+------------------------------ KLIPPTU HÉR ------------------------------
+Leyfi til þátttöku á „{SITENAME}“ — {U_BOARD}
 
-Username: {USERNAME}
-Email: {EMAIL_ADDRESS}
+Notandanafn: {USERNAME}
+Netfang: {EMAIL_ADDRESS}
 
-I HAVE REVIEWED THE INFORMATION PROVIDED BY MY CHILD AND HEREBY GRANT PERMISSION TO "{SITENAME}" TO STORE THIS INFORMATION.
-I UNDERSTAND THIS INFORMATION CAN BE CHANGED AT ANY TIME BY ENTERING A PASSWORD.
-I UNDERSTAND THAT I MAY REQUEST FOR THIS INFORMATION TO BE REMOVED FROM "{SITENAME}" AT ANY TIME.
-
-
-Parent or guardian
-(print your name here): _____________________
-
-(sign here): __________________
-
-Date: _______________
-
------------------------------- CUT HERE ------------------------------
+ÉG HEF FARIÐ YFIR UPPLÝSINGARNAR SEM BARNIÐ MITT GAF UPP OG VEITI HÉR MEÐ „{SITENAME}“ LEYFI TIL AÐ GEYMA ÞÆR.
+ÉG SKIL AÐ HÆGT ER AÐ BREYTA UPPLÝSINGUNUM HVENÆR SEM ER MEÐ ÞVÍ AÐ SLÁ INN LYKILORÐ.
+ÉG SKIL AÐ ÉG GET HVENÆR SEM ER FARIÐ FRAM Á AÐ UPPLÝSINGARNAR VERÐI FJARLÆGÐAR AF „{SITENAME}“.
 
 
-Once the administrator has received the above form via fax or regular mail, your account will be activated.
+Foreldri eða forráðamaður
+(skrifið nafn með prentstöfum): _____________________
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
+(undirskrift): __________________
 
-Thank you for registering.
+Dagsetning: _______________
+
+------------------------------ KLIPPTU HÉR ------------------------------
+
+
+Þegar kerfisstjóri hefur fengið eyðublaðið hér að ofan með símbréfi eða venjulegum pósti verður reikningurinn þinn virkjaður.
+
+Lykilorðið þitt hefur verið vistað á öruggan hátt í gagnagrunninum okkar og ekki er hægt að endurheimta það. Ef þú gleymir því getur þú endurstillt það með netfanginu sem tengist reikningnum.
+
+Þakka þér fyrir skráninguna.
 
 {EMAIL_SIG}
