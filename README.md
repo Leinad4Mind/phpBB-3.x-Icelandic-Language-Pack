@@ -1,7 +1,6 @@
 # Icelandic language pack for phpBB
 
-This repository is being modernised for phpBB 3.3.19 on the
-`update/phpbb-3.3.19` branch.
+This repository provides the Icelandic language pack for phpBB 3.3.19.
 
 ## Migration method
 
@@ -27,12 +26,13 @@ whose meaning changed between phpBB 3.0 and 3.3.
 - 0 text/email templates still require Icelandic translation;
 - the file tree and language keys match phpBB 3.3.19.
 
-The translation is complete and is undergoing final validation before
-publication. See [MIGRATION_STATUS.md](MIGRATION_STATUS.md) for the migration
-record.
+The completed pack passed PHP syntax checks, key/type/placeholder comparison,
+email-template token validation, UTF-8 validation, and BOM checks against the
+official phpBB 3.3.19 British English tree. See
+[MIGRATION_STATUS.md](MIGRATION_STATUS.md) for the migration record.
 
 ## Installation layout
 
-When the translation is complete, copy the repository's `language` and
-`styles` directories into the root of a phpBB 3.3.19 installation, then install
-Icelandic from the Administration Control Panel.
+Copy the repository's `language` and `styles` directories into the root of a
+phpBB 3.3.19 installation, then install Icelandic from the Administration
+Control Panel.

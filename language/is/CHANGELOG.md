@@ -1,6 +1,6 @@
 # Changelog
 
-## 3.3.19-dev
+## 3.3.19
 
 - Rebuilt the package from the official phpBB 3.3.19 British English files.
 - Reused only Icelandic translations whose British English source is unchanged
