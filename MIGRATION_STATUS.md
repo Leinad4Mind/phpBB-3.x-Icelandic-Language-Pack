@@ -28,7 +28,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `captcha_qa.php` | 8 |
 | `captcha_recaptcha.php` | 30 |
 | `cli.php` | 112 |
-| `common.php` | 232 |
+| `common.php` | 0 |
 | `help/bbcode.php` | 30 |
 | `help/faq.php` | 147 |
 | `install.php` | 123 |
@@ -41,7 +41,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `ucp.php` | 150 |
 | `viewforum.php` | 7 |
 | `viewtopic.php` | 11 |
-| **Total** | **1,790** |
+| **Total** | **1,558** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,

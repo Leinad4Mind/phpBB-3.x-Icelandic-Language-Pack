@@ -9,3 +9,4 @@
 - Set the phpBB Icelandic plural rule (`15`).
 - Corrected inherited placeholder mismatches in reused translations.
 - Recorded all entries and templates still requiring a new translation.
+- Completed the manual Icelandic translation of `common.php`.
