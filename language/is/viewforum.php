@@ -53,21 +53,21 @@ $lang = array_merge($lang, array(
 	'NEW_POSTS_LOCKED'		=> 'Nýir póstar [ Læst ]',	// Not used anymore
 	'NO_NEW_POSTS_HOT'		=> 'Engir nýir póstar [ Vinsælt ]',	// Not used anymore
 	'NO_NEW_POSTS_LOCKED'	=> 'Engir nýir póstar [ Læst ]',	// Not used anymore
-	'NO_READ_ACCESS'		=> 'You do not have the required permissions to view or read topics within this forum.',
-	'NO_FORUMS_IN_CATEGORY'	=> 'This category has no forums.',
-	'NO_UNREAD_POSTS_HOT'		=> 'No unread posts [ Popular ]',
-	'NO_UNREAD_POSTS_LOCKED'	=> 'No unread posts [ Locked ]',
+	'NO_READ_ACCESS'		=> 'Þú hefur ekki nauðsynlegar heimildir til að skoða eða lesa umræður á þessu spjallsvæði.',
+	'NO_FORUMS_IN_CATEGORY'	=> 'Engin spjallsvæði eru í þessum flokki.',
+	'NO_UNREAD_POSTS_HOT'		=> 'Engir ólesnir póstar [ Vinsælt ]',
+	'NO_UNREAD_POSTS_LOCKED'	=> 'Engir ólesnir póstar [ Læst ]',
 
 	'POST_FORUM_LOCKED'		=> 'Spjallsvæði er læst',
 
 	'TOPICS_MARKED'			=> 'Umræður á þessu spjallborði hafa verið merktar lesnar.',
 
-	'UNREAD_POSTS_HOT'		=> 'Unread posts [ Popular ]',
-	'UNREAD_POSTS_LOCKED'	=> 'Unread posts [ Locked ]',
+	'UNREAD_POSTS_HOT'		=> 'Ólesnir póstar [ Vinsælt ]',
+	'UNREAD_POSTS_LOCKED'	=> 'Ólesnir póstar [ Læst ]',
 
 	'VIEW_FORUM'			=> 'Skoða spjallsvæði',
 	'VIEW_FORUM_TOPICS'		=> array(
-		1	=> '%d topic',
-		2	=> '%d topics',
+		1	=> '%d umræða',
+		2	=> '%d umræður',
 	),
 ));

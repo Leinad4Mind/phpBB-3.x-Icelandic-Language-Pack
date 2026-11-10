@@ -39,9 +39,9 @@ English sources. Counts below are untranslated top-level language entries.
 | `posting.php` | 45 |
 | `search.php` | 15 |
 | `ucp.php` | 150 |
-| `viewforum.php` | 7 |
+| `viewforum.php` | 0 |
 | `viewtopic.php` | 11 |
-| **Total** | **1,520** |
+| **Total** | **1,513** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,
