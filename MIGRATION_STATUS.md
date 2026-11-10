@@ -34,14 +34,14 @@ English sources. Counts below are untranslated top-level language entries.
 | `install.php` | 123 |
 | `mcp.php` | 31 |
 | `memberlist.php` | 0 |
-| `migrator.php` | 35 |
+| `migrator.php` | 0 |
 | `plupload.php` | 35 |
 | `posting.php` | 45 |
 | `search.php` | 0 |
 | `ucp.php` | 150 |
 | `viewforum.php` | 0 |
 | `viewtopic.php` | 0 |
-| **Total** | **1,239** |
+| **Total** | **1,204** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,
