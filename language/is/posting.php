@@ -258,6 +258,7 @@ $lang = array_merge($lang, array(
 	'TOO_MANY_ATTACHMENTS'		=> 'Get ekki sett annað viðhengi, %d er hámarkið.',
 	'TOO_MANY_CHARS'			=> 'Skilaboðin þín innihalda of marga stafi.',
 	'TOO_MANY_CHARS_LIMIT'		=> array(
+		1	=> 'Hámarksfjöldi leyfilegra stafa er %1$d.',
 		2	=> 'Hámarksfjöldi leyfilegra stafa er %1$d.',
 	),
 	'TOO_MANY_POLL_OPTIONS'		=> 'Þú hafðir of marga valmöguleika.',

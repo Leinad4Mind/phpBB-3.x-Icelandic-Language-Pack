@@ -112,15 +112,19 @@ $lang = array_merge($lang, array(
 	'SEARCH_GUEST_INTERVAL'					=> 'Biðtími milli leita gesta',
 	'SEARCH_GUEST_INTERVAL_EXPLAIN'			=> 'Fjöldi sekúndna sem gestir verða að bíða milli leita. Ef einn gestur leitar verða allir aðrir að bíða þar til tíminn er liðinn.',
 	'SEARCH_INDEX_CREATE_REDIRECT'			=> array(
+		1	=> 'Allar færslur að færsluauðkenni %2$d hafa nú verið skráðar í leitarvísinn; þar af var %1$d færsla unnin í þessu skrefi.',
 		2	=> 'Allar færslur að færsluauðkenni %2$d hafa nú verið skráðar í leitarvísinn; þar af voru %1$d færslur unnar í þessu skrefi.',
 	),
 	'SEARCH_INDEX_CREATE_REDIRECT_RATE'		=> array(
+		1	=> 'Núverandi vísunarhraði er um %1$.1f færsla á sekúndu.',
 		2	=> 'Núverandi vísunarhraði er um %1$.1f færslur á sekúndu.',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT'			=> array(
+		1	=> 'Allar færslur að færsluauðkenni %2$d hafa verið fjarlægðar úr leitarvísinum; þar af var %1$d færsla unnin í þessu skrefi.',
 		2	=> 'Allar færslur að færsluauðkenni %2$d hafa verið fjarlægðar úr leitarvísinum; þar af voru %1$d færslur unnar í þessu skrefi.',
 	),
 	'SEARCH_INDEX_DELETE_REDIRECT_RATE'		=> array(
+		1	=> 'Núverandi eyðingarhraði er um %1$.1f færsla á sekúndu.',
 		2	=> 'Núverandi eyðingarhraði er um %1$.1f færslur á sekúndu.',
 	),
 	'SEARCH_INDEX_CREATED'					=> 'Allar færslur í gagnagrunni spjallborðsins voru skráðar í leitarvísi.',

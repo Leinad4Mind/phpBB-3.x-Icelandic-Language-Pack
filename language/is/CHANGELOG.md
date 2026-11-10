@@ -49,3 +49,5 @@
 - Completed 24 notification email templates in Icelandic.
 - Completed the remaining 17 account, installation, and update email templates.
 - Translated 35 inherited English strings in `acp/modules.php` found during final validation.
+- Added the phpBB VigLink extension language files and resolved all phpBB 3.3
+  Language Pack Validator errors and warnings.

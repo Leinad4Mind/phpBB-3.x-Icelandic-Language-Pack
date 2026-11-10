@@ -482,6 +482,7 @@ $lang = array_merge($lang, array(
 	// A, B, C and others replied...
 	'NOTIFICATION_BOOKMARK'				=> array(
 		1	=> '<strong>Svar</strong> frá %1$s í bókamerktri umræðu:',
+		2	=> '<strong>Svör</strong> frá %1$s í bókamerktri umræðu:',
 	),
 	'NOTIFICATION_FORUM'				=> '<em>Spjallsvæði:</em> %1$s',
 	'NOTIFICATION_GROUP_REQUEST'		=> '<strong>Beiðni um hópaðild</strong> frá %1$s um að ganga í hópinn %2$s.',
@@ -490,12 +491,14 @@ $lang = array_merge($lang, array(
 	'NOTIFICATION_PM'					=> '<strong>Einkaskilaboð</strong> frá %1$s:',
 	'NOTIFICATION_POST'					=> array(
 		1	=> '<strong>Svar</strong> frá %1$s í umræðunni:',
+		2	=> '<strong>Svör</strong> frá %1$s í umræðunni:',
 	),
 	'NOTIFICATION_POST_APPROVED'		=> '<strong>Póstur samþykktur</strong>:',
 	'NOTIFICATION_POST_DISAPPROVED'		=> '<strong>Pósti hafnað</strong>:',
 	'NOTIFICATION_POST_IN_QUEUE'		=> '<strong>Beiðni um samþykki pósts</strong> frá %1$s:',
 	'NOTIFICATION_QUOTE'				=> array(
 		1	=> '<strong>Vitnað í þig</strong> af %1$s í:',
+		2	=> '<strong>Vitnað í þig</strong> af %1$s í:',
 	),
 	'NOTIFICATION_REFERENCE'			=> '„%1$s“',
 	'NOTIFICATION_REASON'				=> '<em>Ástæða:</em> %1$s.',
@@ -515,6 +518,7 @@ $lang = array_merge($lang, array(
 	// Used in conjunction with NOTIFICATION_BOOKMARK and NOTIFICATION_POST.
 	'NOTIFICATION_MANY_OTHERS'			=> 'aðrir',
 	'NOTIFICATION_X_OTHERS'				=> array(
+		1	=> '%d annar',
 		2	=> '%d aðrir',
 	),
 	'NOTIFY_ADMIN'				=> 'Vinsamlegast láttu stjórnanda eða vefstjóra vita.',
@@ -835,13 +839,16 @@ $lang = array_merge($lang, array(
 	'TOPIC_POLL'		=> 'Þessi umræða inniheldur könnun.',
 	'TOTAL_POSTS'		=> 'Póstar samtals',
 	'TOTAL_POSTS_COUNT'	=> array(
+		1	=> 'Samtals póstur <strong>%d</strong>',
 		2	=> 'Samtals póstar <strong>%d</strong>',
 	),
 	'TOPIC_REPORTED'	=> 'Þessi umræða hefur verið tilkynnt',
 	'TOTAL_TOPICS'		=> array(
+		1	=> 'Samtals umræða <strong>%d</strong>',
 		2	=> 'Samtals umræður <strong>%d</strong>',
 	),
 	'TOTAL_USERS'		=> array(
+		1	=> 'Samtals meðlimur <strong>%d</strong>',
 		2	=> 'Samtals meðlimir <strong>%d</strong>',
 	),
 	'TRACKED_PHP_ERROR'	=> 'Skráðar PHP villur: %s',
