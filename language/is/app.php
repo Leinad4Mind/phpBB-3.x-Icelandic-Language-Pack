@@ -41,8 +41,8 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Missing value for argument #%1$s: <strong>%3$s</strong> in class <strong>%2$s</strong>',
-	'CONTROLLER_NOT_SPECIFIED'			=> 'No controller has been specified.',
-	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'No method was specified for the controller.',
-	'CONTROLLER_SERVICE_UNDEFINED'		=> 'The service for controller “<strong>%s</strong>” is not defined in ./config/services.yml.',
+	'CONTROLLER_ARGUMENT_VALUE_MISSING'	=> 'Gildi vantar fyrir viðfang #%1$s: <strong>%3$s</strong> í klasanum <strong>%2$s</strong>',
+	'CONTROLLER_NOT_SPECIFIED'			=> 'Engin stýring hefur verið tilgreind.',
+	'CONTROLLER_METHOD_NOT_SPECIFIED'	=> 'Engin aðferð var tilgreind fyrir stýringuna.',
+	'CONTROLLER_SERVICE_UNDEFINED'		=> 'Þjónustan fyrir stýringuna „<strong>%s</strong>“ er ekki skilgreind í ./config/services.yml.',
 ));

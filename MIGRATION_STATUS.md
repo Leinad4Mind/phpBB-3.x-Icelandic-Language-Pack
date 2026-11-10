@@ -24,7 +24,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `acp/search.php` | 36 |
 | `acp/styles.php` | 27 |
 | `acp/users.php` | 7 |
-| `app.php` | 4 |
+| `app.php` | 0 |
 | `captcha_qa.php` | 8 |
 | `captcha_recaptcha.php` | 30 |
 | `cli.php` | 112 |
@@ -41,7 +41,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `ucp.php` | 150 |
 | `viewforum.php` | 7 |
 | `viewtopic.php` | 11 |
-| **Total** | **1,558** |
+| **Total** | **1,554** |
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,

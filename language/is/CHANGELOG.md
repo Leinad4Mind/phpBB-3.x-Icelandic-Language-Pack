@@ -10,3 +10,4 @@
 - Corrected inherited placeholder mismatches in reused translations.
 - Recorded all entries and templates still requiring a new translation.
 - Completed the manual Icelandic translation of `common.php`.
+- Completed the manual Icelandic translation of `app.php`.
