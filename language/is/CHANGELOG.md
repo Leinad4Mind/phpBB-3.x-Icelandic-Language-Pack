@@ -19,3 +19,4 @@
 - Completed the manual Icelandic translation of `acp/users.php`.
 - Completed the manual Icelandic translation of `viewforum.php`.
 - Completed the manual Icelandic translation of `acp/prune.php`.
+- Completed the manual Icelandic translation of `acp/forums.php`.
