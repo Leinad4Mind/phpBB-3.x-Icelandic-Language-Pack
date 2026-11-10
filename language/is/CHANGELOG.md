@@ -26,3 +26,4 @@
 - Completed the manual Icelandic translation of `search.php`.
 - Completed the manual Icelandic translation of `acp/attachments.php`.
 - Completed the manual Icelandic translation of `acp/posting.php`.
+- Completed the manual Icelandic translation of `acp/styles.php`.
