@@ -16,3 +16,4 @@
 - Completed the manual Icelandic translation of `acp/database.php`.
 - Completed the manual Icelandic translation of `acp/email.php`.
 - Completed the manual Icelandic translation of `acp/language.php`.
+- Completed the manual Icelandic translation of `acp/users.php`.
