@@ -11,3 +11,4 @@
 - Recorded all entries and templates still requiring a new translation.
 - Completed the manual Icelandic translation of `common.php`.
 - Completed the manual Icelandic translation of `app.php`.
+- Completed the manual Icelandic translation of `captcha_qa.php`.
