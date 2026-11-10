@@ -43,12 +43,12 @@ $lang = array_merge($lang, array(
 	'DISPLAY_RESULTS'		=> 'Sýna niðurstöður sem',
 
 	'FOUND_SEARCH_MATCHES'		=> array(
-		1	=> 'Search found %d match',
-		2	=> 'Search found %d matches',
+		1	=> 'Leitin skilaði %d niðurstöðu',
+		2	=> 'Leitin skilaði %d niðurstöðum',
 	),
 	'FOUND_MORE_SEARCH_MATCHES'		=> array(
-		1	=> 'Search found more than %d match',
-		2	=> 'Search found more than %d matches',
+		1	=> 'Leitin skilaði fleiri en %d niðurstöðu',
+		2	=> 'Leitin skilaði fleiri en %d niðurstöðum',
 	),
 
 	'GLOBAL'				=> 'Almenn tilkynning',
@@ -59,40 +59,40 @@ $lang = array_merge($lang, array(
 	'JUMP_TO_POST'			=> 'Fara í póst',
 
 	'LOGIN_EXPLAIN_EGOSEARCH'	=> 'Spjallborðið vill hafa þig skráðan inn svo þú getir fundið þína eigin pósta.',
-	'LOGIN_EXPLAIN_UNREADSEARCH'=> 'The board requires you to be registered and logged in to view your unread posts.',
-	'LOGIN_EXPLAIN_NEWPOSTS'	=> 'The board requires you to be registered and logged in to view new posts since your last visit.',
+	'LOGIN_EXPLAIN_UNREADSEARCH'=> 'Þú verður að vera skráður notandi og skráður inn til að skoða ólesnu póstana þína.',
+	'LOGIN_EXPLAIN_NEWPOSTS'	=> 'Þú verður að vera skráður notandi og skráður inn til að skoða nýja pósta frá síðustu heimsókn.',
 
 	'MAX_NUM_SEARCH_KEYWORDS_REFINE'	=> array(
-		1	=> 'You specified too many words to search for. Please do not enter more than %1$d word.',
-		2	=> 'You specified too many words to search for. Please do not enter more than %1$d words.',
+		1	=> 'Þú tilgreindir of mörg leitarorð. Ekki slá inn fleiri en %1$d orð.',
+		2	=> 'Þú tilgreindir of mörg leitarorð. Ekki slá inn fleiri en %1$d orð.',
 	),
 
-	'NO_KEYWORDS'			=> 'You must specify at least one word to search for. Each word must consist of at least %s and must not contain more than %s excluding wildcards.',
+	'NO_KEYWORDS'			=> 'Þú verður að tilgreina að minnsta kosti eitt leitarorð. Hvert orð verður að vera að minnsta kosti %s og má ekki vera lengra en %s, algildisstafir undanskildir.',
 	'NO_RECENT_SEARCHES'	=> 'Engin leit hefur verið keyrð nýlega.',
 	'NO_SEARCH'				=> 'Þú hefur ekki réttindi til að nota leitina.',
 	'NO_SEARCH_RESULTS'		=> 'Engar niðurstöður fundust.',
-	'NO_SEARCH_LOAD'		=> 'Sorry but you cannot use search at this time. The server has high load. Please try again later.',
+	'NO_SEARCH_LOAD'		=> 'Þú getur því miður ekki notað leitina eins og er vegna mikils álags á þjóninum. Reyndu aftur síðar.',
 	'NO_SEARCH_TIME'		=> array(
-		1	=> 'Sorry but you cannot use search at this time. Please try again in %d second.',
-		2	=> 'Sorry but you cannot use search at this time. Please try again in %d seconds.',
+		1	=> 'Þú getur því miður ekki notað leitina eins og er. Reyndu aftur eftir %d sekúndu.',
+		2	=> 'Þú getur því miður ekki notað leitina eins og er. Reyndu aftur eftir %d sekúndur.',
 	),
-	'NO_SEARCH_UNREADS'		=> 'Sorry but searching for unread posts has been disabled on this board.',
+	'NO_SEARCH_UNREADS'		=> 'Leit að ólesnum póstum hefur því miður verið gerð óvirk á þessu spjallborði.',
 	'WORD_IN_NO_POST'		=> 'Engir póstar fundust því orðið <strong>%s</strong> er ekki notað neinstaðar.',
 	'WORDS_IN_NO_POST'		=> 'Engir póstar fundust því orðin <strong>%s</strong> eru ekki notuð neinstaðar.',
 
 	'POST_CHARACTERS'		=> 'bókstöfum í póstum',
-	'PHRASE_SEARCH_DISABLED'	=> 'Searching by exact phrase is not supported on this board.',
+	'PHRASE_SEARCH_DISABLED'	=> 'Leit að nákvæmum orðasamböndum er ekki studd á þessu spjallborði.',
 
 	'RECENT_SEARCHES'		=> 'Nýlegar leitir',
 	'RESULT_DAYS'			=> 'Takmarka niðurstöður við síðustu',
 	'RESULT_SORT'			=> 'Flokka niðurstöður eftir',
 	'RETURN_FIRST'			=> 'Skila fyrstu',
-	'RETURN_FIRST_EXPLAIN'	=> 'Set to 0 to display the entire post.',
-	'GO_TO_SEARCH_ADV'	=> 'Go to advanced search',
+	'RETURN_FIRST_EXPLAIN'	=> 'Stilltu á 0 til að birta allan póstinn.',
+	'GO_TO_SEARCH_ADV'	=> 'Fara í ítarlega leit',
 
 	'SEARCHED_FOR'				=> 'Leitarorð notað',
 	'SEARCHED_TOPIC'			=> 'Umræða',
-	'SEARCHED_QUERY'			=> 'Searched query',
+	'SEARCHED_QUERY'			=> 'Leitarstrengur',
 	'SEARCH_ALL_TERMS'			=> 'Leita að öllum orðum eða nákvæmlega eins og er skrifað',
 	'SEARCH_ANY_TERMS'			=> 'Leita að öllum orðunum',
 	'SEARCH_AUTHOR'				=> 'Leita að höfundi',
@@ -115,11 +115,11 @@ $lang = array_merge($lang, array(
 	'SORT_FORUM'				=> 'Spjallsvæði',
 	'SORT_POST_SUBJECT'			=> 'Titli pósts',
 	'SORT_TIME'					=> 'Tíma',
-	'SPHINX_SEARCH_FAILED'		=> 'Search failed: %s',
-	'SPHINX_SEARCH_FAILED_LOG'	=> 'Sorry, search could not be performed. More information about this failure has been logged in the error log.',
+	'SPHINX_SEARCH_FAILED'		=> 'Leit mistókst: %s',
+	'SPHINX_SEARCH_FAILED_LOG'	=> 'Ekki var hægt að framkvæma leitina. Nánari upplýsingar um villuna hafa verið skráðar í villuannálinn.',
 
 	'TOO_FEW_AUTHOR_CHARS'	=> array(
-		1	=> 'You must specify at least %d character of the authors name.',
-		2	=> 'You must specify at least %d characters of the authors name.',
+		1	=> 'Þú verður að tilgreina að minnsta kosti %d staf úr nafni höfundar.',
+		2	=> 'Þú verður að tilgreina að minnsta kosti %d stafi úr nafni höfundar.',
 	),
 ));
