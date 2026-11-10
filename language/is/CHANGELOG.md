@@ -44,3 +44,4 @@
 - Completed the manual Icelandic translation of `help/faq.php`.
 - Completed the manual Icelandic translation of `mcp.php`.
 - Completed the manual Icelandic translation of `acp/board.php`.
+- Completed the manual Icelandic translation of `install.php`.
