@@ -32,3 +32,4 @@
 - Completed the manual Icelandic translation of `acp/profile.php`.
 - Completed the manual Icelandic translation of `acp/extensions.php`.
 - Completed the manual Icelandic translation of `migrator.php`.
+- Completed the manual Icelandic translation of `plupload.php`.
