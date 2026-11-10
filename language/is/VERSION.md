@@ -1,7 +1,5 @@
 # Version
 
-3.3.19-dev
+3.3.19
 
-The package structure targets phpBB 3.3.19. The Icelandic translation remains
-in progress until all entries listed in the repository's migration status have
-been translated and reviewed.
+Complete Icelandic language pack for phpBB 3.3.19.

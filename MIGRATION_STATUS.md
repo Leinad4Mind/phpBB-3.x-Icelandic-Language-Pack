@@ -1,4 +1,4 @@
-# phpBB 3.3.19 migration status
+# phpBB 3.3.19 migration completion record
 
 Generated from an exact comparison of the phpBB 3.0.7-PL1 and 3.3.19 British
 English sources. Counts below are untranslated top-level language entries.
@@ -16,6 +16,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `acp/forums.php` | 0 |
 | `acp/groups.php` | 0 |
 | `acp/language.php` | 0 |
+| `acp/modules.php` | 0 |
 | `acp/permissions.php` | 0 |
 | `acp/permissions_phpbb.php` | 0 |
 | `acp/posting.php` | 0 |
@@ -29,6 +30,7 @@ English sources. Counts below are untranslated top-level language entries.
 | `captcha_recaptcha.php` | 0 |
 | `cli.php` | 0 |
 | `common.php` | 0 |
+| `groups.php` | 0 |
 | `help/bbcode.php` | 0 |
 | `help/faq.php` | 0 |
 | `install.php` | 0 |
@@ -42,6 +44,10 @@ English sources. Counts below are untranslated top-level language entries.
 | `viewforum.php` | 0 |
 | `viewtopic.php` | 0 |
 | **Total** | **0** |
+
+The package also contains complete Icelandic catalogues for the bundled phpBB
+VigLink extension: `info_acp_viglink.php`, `viglink_common.php` and
+`viglink_module_acp.php`.
 
 Six unchanged templates were safely reused: `group_added.txt`,
 `group_request.txt`, `profile_send_im.txt`, `user_activate.txt`,

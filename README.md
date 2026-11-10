@@ -1,38 +1,46 @@
 # Icelandic language pack for phpBB
 
-This repository provides the Icelandic language pack for phpBB 3.3.19.
+Complete Icelandic translation for phpBB 3.3.19, including the public forum,
+Administration, Moderator and User Control Panels, installer, command-line
+interface, help pages, email templates and the bundled VigLink extension.
 
-## Migration method
+## Package status
 
-The phpBB 3.3.19 British English language tree is the canonical base. The
-2011 Icelandic phpBB 3.0.7-PL1 package is used only as translation memory:
+- Targets phpBB 3.3.19.
+- Contains no untranslated PHP language entries or email templates.
+- Uses phpBB's Icelandic plural rule (`15`).
+- Matches the official British English file tree, keys, placeholders and
+  template tokens.
+- Passes the official phpBB 3.3 Language Pack Validator with no fatal errors,
+  errors or warnings.
+- All text files use UTF-8 without BOM and Unix line endings.
 
-- an Icelandic value is reused when both its key and British English source
-  are unchanged;
-- an Icelandic value may also be reused when the same British English source
-  has one unambiguous translation in the old package;
-- new or changed source text remains in British English until it is translated
-  and reviewed.
+## Installation
 
-This prevents obsolete Icelandic text from being attached to language keys
-whose meaning changed between phpBB 3.0 and 3.3.
+1. Download the archive from the
+   [latest release](https://github.com/Leinad4Mind/phpBB-3.x-Icelandic-Language-Pack/releases/latest).
+2. Merge its `ext`, `language` and `styles` directories into the root of your
+   phpBB 3.3.19 installation.
+3. Go to **ACP → Customise → Language Management → Language packs** and install
+   Icelandic.
+4. If required, select Icelandic as the board default language and in each
+   user's UCP preferences. Installing a language does not change existing user
+   preferences automatically.
 
-## Current status
+## Translation method
 
-- 3,541 entries reused by unchanged key and source text;
-- 91 entries reused through unambiguous translation memory;
-- 0 PHP language entries still require Icelandic translation;
-- 6 unchanged text/email templates reused;
-- 0 text/email templates still require Icelandic translation;
-- the file tree and language keys match phpBB 3.3.19.
+The official phpBB 3.3.19 British English files are the canonical source. The
+original 2011 Icelandic translation for phpBB 3.0.7-PL1 was used as translation
+memory only when the key and English source were unchanged, or when an exact
+English source had one unambiguous Icelandic match. All new and changed text
+was translated and reviewed against phpBB 3.3.19.
 
-The completed pack passed PHP syntax checks, key/type/placeholder comparison,
-email-template token validation, UTF-8 validation, and BOM checks against the
-official phpBB 3.3.19 British English tree. See
-[MIGRATION_STATUS.md](MIGRATION_STATUS.md) for the migration record.
+This method prevents obsolete translations from being assigned to keys whose
+meaning changed between phpBB 3.0 and 3.3. The migration completion record is
+available in [MIGRATION_STATUS.md](MIGRATION_STATUS.md).
 
-## Installation layout
+## Credits
 
-Copy the repository's `language` and `styles` directories into the root of a
-phpBB 3.3.19 installation, then install Icelandic from the Administration
-Control Panel.
+- Gunnar Guðvarðarson — original Icelandic phpBB 3.0.7-PL1 translation
+- Joomlís.net — original language-pack publisher
+- Leinad4Mind — phpBB 3.3.19 migration and maintenance

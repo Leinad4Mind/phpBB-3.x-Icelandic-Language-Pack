@@ -8,46 +8,13 @@
 - Moved help files and the online-status image to the phpBB 3.3 layout.
 - Set the phpBB Icelandic plural rule (`15`).
 - Corrected inherited placeholder mismatches in reused translations.
-- Recorded all entries and templates still requiring a new translation.
-- Completed the manual Icelandic translation of `common.php`.
-- Completed the manual Icelandic translation of `app.php`.
-- Completed the manual Icelandic translation of `captcha_qa.php`.
-- Completed the manual Icelandic translation of `acp/bots.php`.
-- Completed the manual Icelandic translation of `acp/database.php`.
-- Completed the manual Icelandic translation of `acp/email.php`.
-- Completed the manual Icelandic translation of `acp/language.php`.
-- Completed the manual Icelandic translation of `acp/users.php`.
-- Completed the manual Icelandic translation of `viewforum.php`.
-- Completed the manual Icelandic translation of `acp/prune.php`.
-- Completed the manual Icelandic translation of `acp/forums.php`.
-- Completed the manual Icelandic translation of `viewtopic.php`.
-- Completed the manual Icelandic translation of `acp/ban.php`.
-- Completed the manual Icelandic translation of `captcha_recaptcha.php`.
-- Completed the manual Icelandic translation of `search.php`.
-- Completed the manual Icelandic translation of `acp/attachments.php`.
-- Completed the manual Icelandic translation of `acp/posting.php`.
-- Completed the manual Icelandic translation of `acp/styles.php`.
-- Completed the manual Icelandic translation of `memberlist.php`.
-- Completed the manual Icelandic translation of `acp/groups.php`.
-- Completed the manual Icelandic translation of `acp/profile.php`.
-- Completed the manual Icelandic translation of `acp/extensions.php`.
-- Completed the manual Icelandic translation of `migrator.php`.
-- Completed the manual Icelandic translation of `plupload.php`.
-- Completed the manual Icelandic translation of `acp/search.php`.
-- Completed the manual Icelandic translation of `posting.php`.
-- Completed the manual Icelandic translation of `acp/permissions_phpbb.php`.
-- Completed the manual Icelandic translation of `acp/permissions.php`.
-- Completed the manual Icelandic translation of `acp/common.php`.
-- Completed the manual Icelandic translation of `ucp.php`.
-- Completed the manual Icelandic translation of `cli.php`.
-- Completed the manual Icelandic translation of `help/bbcode.php`.
-- Completed the manual Icelandic translation of `help/faq.php`.
-- Completed the manual Icelandic translation of `mcp.php`.
-- Completed the manual Icelandic translation of `acp/board.php`.
-- Completed the manual Icelandic translation of `install.php`.
-- Completed 10 report and contact email templates in Icelandic.
-- Completed 24 notification email templates in Icelandic.
-- Completed the remaining 17 account, installation, and update email templates.
-- Translated 35 inherited English strings in `acp/modules.php` found during final validation.
-- Added the phpBB VigLink extension language files and resolved all phpBB 3.3
-  Language Pack Validator errors and warnings.
+- Completed the Icelandic translation across the public forum, ACP, MCP, UCP,
+  installer, command-line interface, CAPTCHA, search, posting and help systems.
+- Completed all 51 new or changed email and text templates for reports,
+  notifications, accounts, installation and updates; six unchanged templates
+  were safely reused from the original translation.
+- Reviewed inherited translations and translated 35 remaining English strings
+  in `acp/modules.php` identified during final validation.
+- Added Icelandic language files for the bundled phpBB VigLink extension.
+- Passed the official phpBB 3.3 Language Pack Validator with no fatal errors,
+  errors or warnings.
